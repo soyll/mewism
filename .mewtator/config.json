@@ -1,0 +1,10 @@
+{
+    "game_install_dir": "",
+    "mod_folder": "",
+    "language": "",
+    "theme": "dark",
+    "custom_launch_options": "",
+    "dev_mode_enabled": false,
+    "debug_console_enabled": false,
+    "close_on_launch": true
+}
