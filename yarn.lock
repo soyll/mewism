@@ -1320,7 +1320,7 @@
   resolved "https://registry.yarnpkg.com/@orpc/interop/-/interop-1.14.4.tgz#69540f7381f49b39526dc9a36c108733c3d8a838"
   integrity sha512-9RMBh4D2Lp7d6m2vAd91SN5pzflKcMOKKb7BxAvlK6An1bpdzRQ/2yJ0nqgK5GrmkWDY4EtKK5fPOhq131k3mA==
 
-"@orpc/server@^1.14.3":
+"@orpc/server@^1.14.4":
   version "1.14.4"
   resolved "https://registry.yarnpkg.com/@orpc/server/-/server-1.14.4.tgz#dee541e3810036cdbc5204d0e096f8f3e9d9216c"
   integrity sha512-Cv58hggL2zG/YX44whiuLEroLH+ihTp5Rm3+ycTNYAUGzeiAWqBqvtFxrMd7t+w15JxAT6ZbA4qZjBPOFyL5zw==
